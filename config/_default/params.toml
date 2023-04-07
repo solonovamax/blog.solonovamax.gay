@@ -16,7 +16,7 @@ enableCodeCopy = true
 
 [header]
 layout = "basic" # valid options: basic, hamburger, hybrid, custom
-logo = "img/logo.png"
+#logo = "img/logo.png"
 showTitle = true
 
 [footer]
@@ -26,7 +26,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "page" # valid options: page, profile, custom
+layout = "profile" # valid options: page, profile, custom
 showRecent = true
 recentLimit = 5
 
@@ -34,7 +34,7 @@ recentLimit = 5
 showDate = true
 showDateUpdated = true
 showAuthor = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 # editURL = "https://github.com/username/repo/"
@@ -43,7 +43,7 @@ showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
+showTableOfContents = true
 showTaxonomies = true
 showWordCount = true
 showComments = false
@@ -59,7 +59,7 @@ sharingLinks = [
 
 [list]
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showTableOfContents = true
 showTaxonomies = true
 groupByYear = true

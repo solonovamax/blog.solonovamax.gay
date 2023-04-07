@@ -7,7 +7,7 @@ tags:
 - latex package
 draft: false
 date: 2023-02-11T11:15:22-05:00
-lastmod: 2023-02-11T11:22:11-05:00
+lastmod: 2023-02-11T13:03:33-05:00
 ---
 
 {{<lead>}}
@@ -139,7 +139,7 @@ Everything added by me is annotated with `-s`.
 % \labelize{\chapter}     {breadcrumb:chapter}
 \labelize{\section}       {breadcrumb:section}
 \labelize{\subsection}    {breadcrumb:subsection}
-\labelize{\subsubsection} {breadcrumb:subsubsection}
+%\labelize{\subsubsection} {breadcrumb:subsubsection}
 
 \ExplSyntaxOff
 ```

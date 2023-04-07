@@ -173,6 +173,8 @@
   },
   "active": "3b4b3b109ae02cf6",
   "lastOpenFiles": [
+    "go.sum",
+    "go.mod",
     "config/_default/module.toml~",
     "config/_default/markup.toml~",
     "content/blog/Breadcrumb Latex Package.md",

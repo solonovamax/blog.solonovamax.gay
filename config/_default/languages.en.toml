@@ -17,11 +17,11 @@ dateFormat = "January 2 2006"
 [author]
 name = "solonovamax"
 image = "img/logo.png"
-headline = "I'm only human"
+headline = "Some nerd who does code"
 bio = "Some nerd who does code"
 links = [
-    { email = "mailto:solonovamax@12oclockpoint.com" },
     { link = "https://solonovamax.gay/" },
+    { email = "mailto:solonovamax@12oclockpoint.com" },
     #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     #   { apple = "https://www.apple.com" },
     #   { blogger = "https://username.blogspot.com/" },
