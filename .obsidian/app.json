@@ -1,0 +1,11 @@
+{
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB",
+    "en-CA",
+    "en-US",
+    "en-GB-oxendict"
+  ],
+  "useTab": false,
+  "showUnsupportedFiles": true
+}

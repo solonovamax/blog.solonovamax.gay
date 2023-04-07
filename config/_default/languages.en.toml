@@ -1,0 +1,64 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "solonovamax's blog"
+description = "solonovamax's personal blog"
+#copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "January 2 2006"
+
+[params]
+# mainSections = ["section1", "section2"]
+
+[author]
+name = "solonovamax"
+image = "img/logo.png"
+headline = "I'm only human"
+bio = "Some nerd who does code"
+links = [
+    { email = "mailto:solonovamax@12oclockpoint.com" },
+    { link = "https://solonovamax.gay/" },
+    #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    #   { apple = "https://www.apple.com" },
+    #   { blogger = "https://username.blogspot.com/" },
+    #   { codepen = "https://codepen.io/username" },
+    #   { dev = "https://dev.to/username" },
+    { discord = "https://discord.com/users/195735703726981120" },
+    #   { dribbble = "https://dribbble.com/username" },
+    #   { facebook = "https://facebook.com/username" },
+    #   { flickr = "https://www.flickr.com/photos/username/" },
+    #   { foursquare = "https://foursquare.com/username" },
+    { github = "https://github.com/solonovamax" },
+    { gitlab = "https://gitlab.com/solonovamax" },
+    #   { google = "https://www.google.com/" },
+    #   { hashnode = "https://username.hashnode.dev" },
+    { instagram = "https://instagram.com/solonovamax" },
+    { keybase = "https://keybase.io/solonovamax" },
+    #   { kickstarter = "https://www.kickstarter.com/profile/username" },
+    #   { lastfm = "https://lastfm.com/user/username" },
+    #   { linkedin = "https://linkedin.com/in/username" },
+    #   { mastodon = "https://mastodon.instance/@username" },
+    #   { medium = "https://medium.com/username" },
+    #   { microsoft = "https://www.microsoft.com/" },
+    #   { orcid = "https://orcid.org/userid" },
+    #   { patreon = "https://www.patreon.com/username" },
+    #   { pinterest = "https://pinterest.com/username" },
+    { reddit = "https://reddit.com/user/solonovamax" },
+    #   { researchgate = "https://www.researchgate.net/profile/username" },
+    #   { slack = "https://workspace.url/team/userid" },
+    #   { snapchat = "https://snapchat.com/add/username" },
+    #   { soundcloud = "https://soundcloud.com/username" },
+    { stack-overflow = "https://stackoverflow.com/users/userid/solonovamax" },
+    #   { steam = "https://steamcommunity.com/profiles/userid" },
+    #   { telegram = "https://t.me/username" },
+    #   { tiktok = "https://tiktok.com/@username" },
+    #   { tumblr = "https://username.tumblr.com" },
+    { twitch = "https://twitch.tv/solonovamax" },
+    { twitter = "https://twitter.com/solonovamax" },
+    #   { whatsapp = "https://wa.me/phone-number" },
+    { youtube = "https://youtube.com/solonovamax" },
+]
