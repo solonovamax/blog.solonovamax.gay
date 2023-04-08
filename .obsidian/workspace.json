@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/First Post.md",
+                "file": "content/blog/breadcrumb-latex-package/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/First Post.md",
+                "file": "content/blog/breadcrumb-latex-package/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/First Post.md",
+                "file": "content/blog/breadcrumb-latex-package/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/First Post.md"
+                "file": "content/blog/breadcrumb-latex-package/index.md"
               }
             }
           },
@@ -173,13 +173,20 @@
   },
   "active": "3b4b3b109ae02cf6",
   "lastOpenFiles": [
-    "go.sum",
-    "go.mod",
-    "config/_default/module.toml~",
-    "config/_default/markup.toml~",
-    "content/blog/Breadcrumb Latex Package.md",
-    "Untitled.md",
+    "content/blog/First Post.md",
     "content/blog/_index.md",
+    "config/_default/params.toml~",
+    "content/blog/Breadcrumb Latex Package.md",
+    "layouts/partials/article-link.html~",
+    "layouts/partials/home/profile.html~",
+    "assets/css/custom.css~",
+    "layouts/partials/article-link.html",
+    "layouts/partials/recent-articles.html~",
+    "layouts/partials/recent-articles.html",
+    "layouts/partials/home/profile.html",
+    "layouts/partials/home",
+    "layouts/_default/list.html~",
+    "Untitled.md",
     "content/_index.md",
     "public/android-chrome-512x512.png",
     "public/android-chrome-192x192.png",

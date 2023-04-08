@@ -1,0 +1,21 @@
+.prose {
+    text-align: justify;
+}
+
+/*.max-w-prose {*/
+/*    max-width: unset;*/
+/*}*/
+
+.file {
+    border: 1px solid;
+    border-radius: 6px;
+    border-color: rgb(58, 62, 65) rgb(58, 62, 65) rgb(62, 68, 70);
+}
+
+.filename {
+    padding: 10px;
+}
+
+.file-content {
+    margin: unset;
+}

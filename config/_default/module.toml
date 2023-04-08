@@ -1,7 +1,10 @@
 [hugoVersion]
-  extended = true
-  min = "0.100.0"
+extended = true
+min = "0.100.0"
 
 [[imports]]
 #path = 'github.com/spf13/hyde'
-path = 'github.com/future-wd/hugo-responsive-images'
+path = "github.com/future-wd/hugo-responsive-images"
+
+[[imports]]
+path = "github.com/jpanther/congo/v2"

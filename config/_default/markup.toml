@@ -15,9 +15,9 @@ lineAnchors = ""
 lineNoStart = 1
 lineNos = false
 lineNumbersInTable = true
-noClasses = true
+noClasses = false
 noHl = false
-style = "github-dark"
+style = "base16-snazzy" # github-dark, rose-pine-moon, onedark, nord, modus-vivendi, fruity, dracula, doom-one2, doom-one, catppuccin-macchiato, catppuccin-frappe, base16-snazzy
 tabWidth = 4
 
 [tableOfContents]

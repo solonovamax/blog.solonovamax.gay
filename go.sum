@@ -1,3 +1,5 @@
 github.com/future-wd/hugo-imaging-common v0.0.8/go.mod h1:T+CwESc3sveTg/R4X/2AeQszY52MuqfyNuVV2UmSn+E=
 github.com/future-wd/hugo-responsive-images v1.2.16 h1:+pIlS+XxA+hmiK4+R/7ud9tKM11QWwkhyFLRheCUu4w=
 github.com/future-wd/hugo-responsive-images v1.2.16/go.mod h1:YE72mEpC8vO+vJTDmDhgNIQV3N7QdV3gleRwe8zrgmU=
+github.com/jpanther/congo/v2 v2.5.4 h1:6SLJ5y1hXs2eu4Ce8HBT5YLLbnu0GE+CZ686p/2jRFw=
+github.com/jpanther/congo/v2 v2.5.4/go.mod h1:1S7DRoO1ZYS4YUdFd1LjTkdyjQwsjFWd8TqSfz3Jd+M=
