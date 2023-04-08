@@ -13,7 +13,7 @@ lastmod: 2023-04-08T16:16:18-04:00
 {{<katex>}}
 
 {{<lead>}}
-This is modified code from [SeanAllred](https://tex.stackexchange.com/users/17423/) on [StackExchange](https://tex.stackexchange.com/a/122816).
+This is modified code from SeanAllred on [StackExchange](https://tex.stackexchange.com/a/122816).
 Any code in this post is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), as-per StackExchange's license.
 {{</lead>}}
 

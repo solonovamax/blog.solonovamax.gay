@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4459f3521ca9a566",
+        "id": "3c5acfb36cf55e37",
         "type": "tabs",
         "children": [
           {
@@ -17,20 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3c5acfb36cf55e37",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c1f1bb72cf76fde8",
-            "type": "leaf",
-            "state": {
-              "type": "hugo-preview-view",
-              "state": {}
             }
           }
         ]
